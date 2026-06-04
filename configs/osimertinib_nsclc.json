@@ -1,0 +1,8 @@
+{
+  "drug": "Osimertinib NSCLC",
+  "drug_lower": "osimertinib nsclc",
+  "condition": "Adults with EGFR-mutant ex19del or L858R NSCLC",
+  "slug": "osimertinib_nsclc",
+  "source_repo": "C:\\Projects\\Osimertinib_NSCLC_LivingMeta",
+  "source_html": "OSIMERTINIB_NSCLC_REVIEW.html"
+}
